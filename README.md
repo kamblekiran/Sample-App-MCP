@@ -10,7 +10,7 @@ A simple Express.js web application for demonstrating DevOps pipelines and AKS d
 - Basic user management API
 - Unit tests with Jest
 
-## Quick Start
+## Quick Start for demo
 
 ```bash
 # Install dependencies
@@ -24,4 +24,5 @@ npm test
 
 # Start in production mode
 npm start
+
 ```
